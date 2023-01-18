@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "payment-47eae"
+  },
+  "targets": {
+    "payment-47eae": {
+      "hosting": {
+        "ia-blogs": [
+          "./out"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
